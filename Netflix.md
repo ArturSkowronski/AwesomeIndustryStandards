@@ -81,6 +81,7 @@
 
 ## API
 * Versionless
+* Fat Clients with big amount of technical stuff
 
 ## Innner Structure
 * Core Team
