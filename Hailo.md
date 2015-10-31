@@ -8,7 +8,7 @@
 
 ### Tenancy 
 
-### Adressing
+### Routing
 * Finagle as API (RPC) Client with Zookeeper
 
 ### Provisioning

@@ -74,7 +74,6 @@
 ## OS
 * Ubuntu
 
-
 ## Technologies
 * Gradle
 * Java
@@ -105,7 +104,6 @@
   * Operations Education
   * Protecting Customer Experience 
 * Boundry Context of Teams and Microservices
-
 
 ## Testing 
 * 1400 AB Tests last year
