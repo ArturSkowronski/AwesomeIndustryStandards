@@ -59,4 +59,8 @@
 
 ## Communication
 
-## Cultur
+## Culture
+
+----
+State of the Art in Microservices by Adrian Cockcroft (Battery Ventures)
+https://www.youtube.com/watch?v=nMTaS07i3jk&list=WL&index=24

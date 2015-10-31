@@ -112,7 +112,7 @@
 
 ## Communication
 
-## Cultur
+## Culture
 * Team can choose technology
 * Team
 * 24/7 Call
@@ -127,3 +127,6 @@ https://www.youtube.com/watch?v=IkPb15FfuQU
 
 AWS re:Invent 2015 | (DVO203) A Day in the Life of a Netflix Engineer
 https://www.youtube.com/watch?v=-mL3zT1iIKw
+
+State of the Art in Microservices by Adrian Cockcroft (Battery Ventures)
+https://www.youtube.com/watch?v=nMTaS07i3jk&list=WL&index=24

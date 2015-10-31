@@ -58,7 +58,7 @@
 
 ## Communication
 
-## Cultur
+## Culture
 
 ---------------
 Building DistributedLog: Twitter’s high-performance replicated log service
@@ -66,3 +66,6 @@ https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance
 
 Interview with Raffi Krikorian on Twitter's Infrastructure
 http://www.infoq.com/articles/twitter-infrastructure
+
+State of the Art in Microservices by Adrian Cockcroft (Battery Ventures)
+https://www.youtube.com/watch?v=nMTaS07i3jk&list=WL&index=24
