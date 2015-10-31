@@ -10,13 +10,16 @@
 *  
 
 ### Adressing
-* 
+* Edda: API for Querying for working machines: https://github.com/Netflix/edda/wiki
+* Zuul: Dynamic Routing https://github.com/Netflix/zuul
 
 ### Provisioning
 * Base AMI
+* Aminator (https://github.com/Netflix/aminator) to create AMIs
+* Configuration Management through Archaius https://github.com/Netflix/archaius
 
 ### Containers
-* 
+* Used to Dockerized OSS
 
 ### Security 
 * 
@@ -32,20 +35,22 @@
 * Chaos Gorilla kills AZ 
 * Chaos Kong kills Region
 * Everything visualized in Flux
+* Hystrix - Circuit Breaker
 
 ### Load Ballancing
-* 
+* Discovery Service: Eureka - https://github.com/Netflix/eureka
 
 ### DB 
 * Datastore Per Service
+* Ephemeral Databases
+* Dynomite as Abstraction over kv stores - https://github.com/Netflix/dynomite
 
 ### Deployment
-* Continous Delivery
+* Continous Delivery - Jenkins
 * https://github.com/Netflix/asgard -> Spinnaker
 * Red -> Black Deployments
 * Delivery Pipelines
 * Small amount of services deploy (canaries), metrics are tested, if better rest of services goes too
-
 
 ### Integration
 * Slalom - Tool to showing dependencies between services
@@ -66,13 +71,21 @@
 * Flux - visualisation - http://techblog.netflix.com/2015/10/flux-new-approach-to-system-intuition.html
 * Show human readable metrics through Mogul
 
+## OS
+* Ubuntu
+
+
 ## Technologies
 * Gradle
-* Ubuntu
-* Jenkins
-* Spinnaker
+* Java
+* Groovy
+* Scala
+* Clojure
+* Python
+* Node.js for frontend
 
 ### Source Control
+* GIT
 * Stash
 
 ## Scaling
