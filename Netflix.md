@@ -9,9 +9,10 @@
 ### Tenancy
 *  
 
-### Adressing
+### Routing
 * Edda: API for Querying for working machines: https://github.com/Netflix/edda/wiki
 * Zuul: Dynamic Routing https://github.com/Netflix/zuul
+* Denominator: DNS Control Layer over vendor API - https://github.com/Netflix/denominator
 
 ### Provisioning
 * Base AMI
@@ -39,6 +40,8 @@
 
 ### Load Ballancing
 * Discovery Service: Eureka - https://github.com/Netflix/eureka
+* Amazon Load Ballancing
+* OpenConnect CDN
 
 ### DB 
 * Datastore Per Service
@@ -57,6 +60,7 @@
 * Instances are like plants, not pets - you don't need to name them
 
 ### Server
+* NGINX (First Client)
 
 ### Metrics 
 * Observe, Orient, Decide, Act
@@ -130,3 +134,6 @@ https://www.youtube.com/watch?v=-mL3zT1iIKw
 
 State of the Art in Microservices by Adrian Cockcroft (Battery Ventures)
 https://www.youtube.com/watch?v=nMTaS07i3jk&list=WL&index=24
+
+Fast Delivery: Adrian Cockcroft @nginxconf 2014
+https://www.youtube.com/watch?v=5qJ_BibbMLw&index=18&list=WL
