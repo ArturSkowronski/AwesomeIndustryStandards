@@ -1,15 +1,16 @@
-# Dropbox
+# Facebook
 
 ## Industry
 * Transport
 
 ## Infrastructure
-* Amazon Web Services
+* Bare metal
 
 ### Tenancy 
 
 ### Routing
-* 
+* SPDY 3.1
+* Proxygen
 
 ### Provisioning
 * 
@@ -30,7 +31,6 @@
 
 ### DB 
 * MySQL
-* Memcache
 
 ### Deployment
 * 
@@ -43,7 +43,8 @@
 ### Metrics 
 
 ## Technologies
-* Python
+* Hack
+* PHP
 
 ### Source Control
 
@@ -62,6 +63,6 @@
 ## Culture
 
 ----
-How We've Scaled Dropbox
+An overview of HTTP/2 with Daniel Sommermann (Sourcegraph Hacker Meetup)
 
-https://www.youtube.com/watch?v=PE4gwstWhmc&index=5&list=WL
+https://www.youtube.com/watch?v=-yxQIRl6Qic&list=WL&index=4
