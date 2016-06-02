@@ -48,6 +48,7 @@
 ### Metrics 
 
 ## Technologies
+* Play Framework
 * SBT
 * Scala
 * Ruby
@@ -55,13 +56,14 @@
 ### Source Control
 
 ## Scaling
+* 3 instances per Microservice in production
 
 ## Log
 
 ## API
 
 ## Innner Structure
-
+* Average service at Gilt consists of 2000 lines of code and 5 source files
 ## Testing 
 
 ## Communication
